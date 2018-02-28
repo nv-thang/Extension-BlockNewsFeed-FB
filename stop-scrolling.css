@@ -1,0 +1,23 @@
+.ss-dialog {
+  padding: 15px;
+}
+span#scroll-time-count {
+  color: #4267b2;
+}
+span.enable-longer-time-options {
+      color: #dadada;
+}
+#h1 {
+	text-align: center;
+	color: red;
+	background-color: #00FF00;
+}
+.ss-open-nf{
+	background-color: #20b2aa;
+	color: white;
+	border: none;
+	font-size: 15px;
+	padding: 5px 10px;
+	min-width: 100%;
+	margin: 5px;
+}
